@@ -31,6 +31,8 @@ config.keys = {
   },
 }
 
+config.font_size = 14.5
+
 -- and finally, return the configuration to wezterm
 return config
 
